@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "jd3oQdjdyG1EpBErTucuc3kg1U6Ua01nTyJMhuXfls4=",
+  "Source": "ReimbursementApp",
+  "BasePath": "_content/ReimbursementApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ReimbursementApp/wwwroot",
+      "Source": "ReimbursementApp",
+      "ContentRoot": "/Users/sayalidilipdeshmukh/Desktop/application/Project/Reimbursement-app/backend/ReimbursementApp/wwwroot/",
+      "BasePath": "_content/ReimbursementApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
